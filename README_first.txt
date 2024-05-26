@@ -1,4 +1,4 @@
-Documents inside this folder:
+Documents inside this repo:
 
 - instructions_to_run.pdf "PDF With instructions on how to run the emergency_type_classifier.py script".
 
